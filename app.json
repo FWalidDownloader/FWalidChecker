@@ -1,0 +1,30 @@
+{
+  "env": {
+    "API_ID": {
+      "description": "20167860",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "e2de45dd8c4f6ca04c759e5932273031",
+      "required": true,
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "1BJWap1wBuziqMqUUlAiQTk_RvMYqoaNnZJlYtz9jsc4aDAG0QmIBrZRkZsJtSrLHVhy2eTuCcIDwuq5Qft5Qzt7J5mc5sBhSOLjSJtyN5fb-I4GoBb0L-jkgCMc3H-kYky4c4yacZIMxKQaBlsQp3cwE2fKUqdCeXA9jbW-P_DTkKr-ZCvIt7FllOamAiYX-wUT6izdcpDhj8jTr4T4GoZipHQ_VlnPpWPkNj1Jwuj995gwUwUP1gj-TqzwgpK9d2GmjlQHYScPQNSAPAos9uFq0dGPUQn5XbAMwPv3PmkfOgynDGai9LbH47MSR9fSHO_lt76bZ8MdkDfCDGqWgTSXQ7DAkJ5Y=",
+      "required": true,
+      "value": ""
+    },
+    "DUMP_ID": {
+      "description": "-1001876714595",
+      "required": true,
+      "value": ""
+    }
+  },
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
